@@ -2,6 +2,5 @@
 
 ### Built With React, Firebase && Chakra UI
 
-# [Tutorial](https://youtu.be/bQtAg7AFFrY)
 
-![Screenshot of App](https://i.ibb.co/PjkYLCk/Group-34.png)
+![Screenshot (120)](https://github.com/Pramod556/INSTGRAM-CLONE/assets/98465143/cbf87db5-3a46-40c0-826e-b9acaee726bd)
